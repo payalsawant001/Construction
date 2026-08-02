@@ -45,24 +45,3 @@ Pull requests and feedback are always welcome 💬
 ## 📎 Tags
 
 `#HTML` `#CSS` `#ResponsiveDesign` `#WebDevelopment` `#StaticWebsite` `#FrontendProject` `#OpenSource` `#Portfolio`
-..
-..
-..
-..
-..
-..
-..
-..
-..
-..
-..
-..
-..
-..
-..
-..
-..
-..
-..
-..
-..
