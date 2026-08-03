@@ -3,7 +3,7 @@
 This is a fully responsive, multi-page website project built using **pure HTML and CSS** — no frameworks or libraries used. Designed to represent a modern service-based business like construction, architecture, or design agencies.
 
 ---
-
+..
 ## 🔧 Features
 
 - ✅ **Multi-section layout**: Home, Features, Projects, Services, Blog, Contact, and Pages  
