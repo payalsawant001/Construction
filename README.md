@@ -23,7 +23,6 @@ This is a fully responsive, multi-page website project built using **pure HTML a
 ## 🔗 Live Demo
 
 > https://construction-multi-section.netlify.app/
-suraj kharade 2
 
 ---
 
@@ -39,7 +38,7 @@ suraj kharade 2
 
 Feel free to fork, explore, or suggest improvements!  
 Pull requests and feedback are always welcome 💬
-
+suraj ak3
 ---
 
 ## 📎 Tags
