@@ -23,9 +23,9 @@ This is a fully responsive, multi-page website project built using **pure HTML a
 ## 🔗 Live Demo
 
 > https://construction-multi-section.netlify.app/
-Hello Good Morning Team We have Sucessfully Launced the demo of park 2 Please Check and update them  accordingly Thank you
----
 
+---
+Thank you for your understanding all the concepts 
 ## 📌 Useful For
 
 - Beginners learning website layout and responsive design  
