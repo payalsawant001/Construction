@@ -13,7 +13,7 @@ This is a fully responsive, multi-page website project built using **pure HTML a
 - ✅ Clean and accessible UI with structured, semantic HTML  .
 
 ---
-
+i am ready for the contribution
 ## 📁 Tech Stack
 
 - 💻 HTML5  
