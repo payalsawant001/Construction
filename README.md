@@ -38,9 +38,9 @@ This is a fully responsive, multi-page website project built using **pure HTML a
 
 Feel free to fork, explore, or suggest improvements!  
 Pull requests and feedback are always welcome 💬
-
+I have a Knoweldge about the salesforce admin and a Development
 ---
 
 ## 📎 Tags
-What i can Help you
+
 `#HTML` `#CSS` `#ResponsiveDesign` `#WebDevelopment` `#StaticWebsite` `#FrontendProject` `#OpenSource` `#Portfolio`
