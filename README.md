@@ -38,7 +38,7 @@ This is a fully responsive, multi-page website project built using **pure HTML a
 
 Feel free to fork, explore, or suggest improvements!  
 Pull requests and feedback are always welcome 💬
-suraj ak3
+
 ---
 
 ## 📎 Tags
