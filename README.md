@@ -11,7 +11,7 @@ This is a fully responsive, multi-page website project built using **pure HTML a
 - ✅ **Why Choose Us** and **Unique Features** sections  
 - ✅ **Mobile-first responsive design** using media queries (`sm`, `md`, `lg`)  
 - ✅ Clean and accessible UI with structured, semantic HTML  .
-i am a always ready for the bootcamp
+
 --- 
 
 ## 📁 Tech Stack
@@ -19,7 +19,7 @@ i am a always ready for the bootcamp
 - 💻 HTML5  
 - 🎨 CSS3 (Flexbox, media queries, card styling)
 ---
-
+Hello I am Mr
 ## 🔗 Live Demo
 
 > https://construction-multi-section.netlify.app/
