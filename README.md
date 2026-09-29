@@ -33,12 +33,12 @@ This is a fully responsive, multi-page website project built using **pure HTML a
 - Practicing HTML & CSS fundamentals without using frameworks  
 
 ---
-why are you ignoring me
+
 ## 📬 Feedback & Contributions
 
 Feel free to fork, explore, or suggest improvements!  
 Pull requests and feedback are always welcome 💬
-
+i am a very bad boy
 ---
 
 ## 📎 Tags
