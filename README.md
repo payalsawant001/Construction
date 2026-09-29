@@ -2,7 +2,7 @@
 
 This is a fully responsive, multi-page website project built using **pure HTML and CSS** — no frameworks or libraries used. Designed to represent a modern service-based business like construction, architecture, or design agencies.
 ---
-I Have A Knoweldge About This So THank You
+
 ## 🔧 Features
 
 - ✅ **Multi-section layout**: Home, Features, Projects, Services, Blog, Contact, and Pages  
@@ -23,7 +23,7 @@ I Have A Knoweldge About This So THank You
 ## 🔗 Live Demo
 
 > https://construction-multi-section.netlify.app/
-
+Keep My idea And Process Them to Accordingly to create all Them Instructions
 ---
 
 ## 📌 Useful For
