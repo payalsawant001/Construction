@@ -38,9 +38,9 @@ This is a fully responsive, multi-page website project built using **pure HTML a
 
 Feel free to fork, explore, or suggest improvements!  
 Pull requests and feedback are always welcome 💬
-i am a very bad boy
+
 ---
 
 ## 📎 Tags
-
+What i can Help you
 `#HTML` `#CSS` `#ResponsiveDesign` `#WebDevelopment` `#StaticWebsite` `#FrontendProject` `#OpenSource` `#Portfolio`
