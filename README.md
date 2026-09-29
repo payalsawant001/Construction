@@ -25,7 +25,7 @@ This is a fully responsive, multi-page website project built using **pure HTML a
 > https://construction-multi-section.netlify.app/
 
 ---
-i am always ready for the contribution
+
 ## 📌 Useful For
 
 - Beginners learning website layout and responsive design  
@@ -33,7 +33,7 @@ i am always ready for the contribution
 - Practicing HTML & CSS fundamentals without using frameworks  
 
 ---
-
+why are you ignoring me
 ## 📬 Feedback & Contributions
 
 Feel free to fork, explore, or suggest improvements!  
