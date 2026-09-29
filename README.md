@@ -21,11 +21,11 @@ This is a fully responsive, multi-page website project built using **pure HTML a
 ---
 
 ## 🔗 Live Demo
-what i can Help you
+
 > https://construction-multi-section.netlify.app/
 
 ---
-
+i am always ready for the contribution
 ## 📌 Useful For
 
 - Beginners learning website layout and responsive design  
