@@ -1,8 +1,8 @@
 # 🚧 Construction – A Multi-Section Responsive Service Website 🏗️🌐
-i have  a All Konoweldge About Them Please Check
+
 This is a fully responsive, multi-page website project built using **pure HTML and CSS** — no frameworks or libraries used. Designed to represent a modern service-based business like construction, architecture, or design agencies.
 ---
-
+I Have A Knoweldge About This So THank You
 ## 🔧 Features
 
 - ✅ **Multi-section layout**: Home, Features, Projects, Services, Blog, Contact, and Pages  
