@@ -31,14 +31,14 @@ This is a fully responsive, multi-page website project built using **pure HTML a
 - Beginners learning website layout and responsive design  
 - Creating static business website templates  
 - Practicing HTML & CSS fundamentals without using frameworks  
-
+THANK YOU TEAM FOR YOUR BEST COMPRIMISATION 
 ---
 
 ## 📬 Feedback & Contributions
 
 Feel free to fork, explore, or suggest improvements!  
 Pull requests and feedback are always welcome 💬
-Hello This is a Final LAyout Please Check them
+
 ---
 
 ## 📎 Tags
