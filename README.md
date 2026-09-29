@@ -31,7 +31,7 @@ This is a fully responsive, multi-page website project built using **pure HTML a
 - Beginners learning website layout and responsive design  
 - Creating static business website templates  
 - Practicing HTML & CSS fundamentals without using frameworks  
-THANK YOU TEAM FOR YOUR BEST COMPRIMISATION 
+
 ---
 
 ## 📬 Feedback & Contributions
