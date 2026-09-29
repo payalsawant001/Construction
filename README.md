@@ -25,7 +25,7 @@ This is a fully responsive, multi-page website project built using **pure HTML a
 > https://construction-multi-section.netlify.app/
 
 ---
-Thank you for your understanding all the concepts 
+
 ## 📌 Useful For
 
 - Beginners learning website layout and responsive design  
