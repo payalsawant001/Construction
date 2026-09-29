@@ -19,9 +19,9 @@ This is a fully responsive, multi-page website project built using **pure HTML a
 - 💻 HTML5  
 - 🎨 CSS3 (Flexbox, media queries, card styling)
 ---
-Hello I am Mr
-## 🔗 Live Demo
 
+## 🔗 Live Demo
+what i can Help you
 > https://construction-multi-section.netlify.app/
 
 ---
