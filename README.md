@@ -13,7 +13,7 @@ This is a fully responsive, multi-page website project built using **pure HTML a
 - ✅ Clean and accessible UI with structured, semantic HTML  .
 
 --- 
-
+I Will Start the New Site Tomorrow So thats Why You are Complete the all instructions
 ## 📁 Tech Stack
 
 - 💻 HTML5  
@@ -25,7 +25,7 @@ This is a fully responsive, multi-page website project built using **pure HTML a
 > https://construction-multi-section.netlify.app/
 
 ---
-Sorry I Have Disturbing You
+
 ## 📌 Useful For
 
 - Beginners learning website layout and responsive design  
