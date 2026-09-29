@@ -19,11 +19,11 @@ This is a fully responsive, multi-page website project built using **pure HTML a
 - 💻 HTML5  
 - 🎨 CSS3 (Flexbox, media queries, card styling)
 ---
-Thank You All Of You we Have Sucessfully Completed the Sk Park 1 And Start the New Project Sk park 2
+
 ## 🔗 Live Demo
 
 > https://construction-multi-section.netlify.app/
-
+Hello Good Morning Team We have Sucessfully Launced the demo of park 2 Please Check and update them  accordingly Thank you
 ---
 
 ## 📌 Useful For
