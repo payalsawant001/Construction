@@ -1,5 +1,5 @@
 # 🚧 Construction – A Multi-Section Responsive Service Website 🏗️🌐
-suraj kharade
+
 This is a fully responsive, multi-page website project built using **pure HTML and CSS** — no frameworks or libraries used. Designed to represent a modern service-based business like construction, architecture, or design agencies.
 ---
 
@@ -13,7 +13,7 @@ This is a fully responsive, multi-page website project built using **pure HTML a
 - ✅ Clean and accessible UI with structured, semantic HTML  .
 
 ---
-
+suraj kharade 1
 ## 📁 Tech Stack
 
 - 💻 HTML5  
