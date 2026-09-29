@@ -13,13 +13,13 @@ This is a fully responsive, multi-page website project built using **pure HTML a
 - ✅ Clean and accessible UI with structured, semantic HTML  .
 
 --- 
-I Will Start the New Site Tomorrow So thats Why You are Complete the all instructions
+
 ## 📁 Tech Stack
 
 - 💻 HTML5  
 - 🎨 CSS3 (Flexbox, media queries, card styling)
 ---
-
+Thank You All Of You we Have Sucessfully Completed the Sk Park 1 And Start the New Project Sk park 2
 ## 🔗 Live Demo
 
 > https://construction-multi-section.netlify.app/
