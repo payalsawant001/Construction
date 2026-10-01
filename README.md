@@ -23,7 +23,7 @@ This is a fully responsive, multi-page website project built using **pure HTML a
 ## 🔗 Live Demo
 
 > https://construction-multi-section.netlify.app/
-what is the system of the scenario of the system
+
 ---
 
 ## 📌 Useful For
