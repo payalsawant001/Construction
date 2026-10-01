@@ -23,7 +23,7 @@ This is a fully responsive, multi-page website project built using **pure HTML a
 ## 🔗 Live Demo
 
 > https://construction-multi-section.netlify.app/
-
+what is the system of the scenario of the system
 ---
 
 ## 📌 Useful For
@@ -33,7 +33,7 @@ This is a fully responsive, multi-page website project built using **pure HTML a
 - Practicing HTML & CSS fundamentals without using frameworks  
 
 ---
-i am the person thats why are 
+
 ## 📬 Feedback & Contributions
 
 Feel free to fork, explore, or suggest improvements!  
