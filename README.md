@@ -40,7 +40,7 @@ Feel free to fork, explore, or suggest improvements!
 Pull requests and feedback are always welcome 💬
 
 ---
-
+what is the scenario of the system 
 ## 📎 Tags
-the salesforce is used for the extreramly for the 
+
 `#HTML` `#CSS` `#ResponsiveDesign` `#WebDevelopment` `#StaticWebsite` `#FrontendProject` `#OpenSource` `#Portfolio`
