@@ -33,14 +33,14 @@ This is a fully responsive, multi-page website project built using **pure HTML a
 - Practicing HTML & CSS fundamentals without using frameworks  
 
 ---
-
+i am the person thats why are 
 ## 📬 Feedback & Contributions
 
 Feel free to fork, explore, or suggest improvements!  
 Pull requests and feedback are always welcome 💬
 
 ---
-what is the scenario of the system 
+
 ## 📎 Tags
 
 `#HTML` `#CSS` `#ResponsiveDesign` `#WebDevelopment` `#StaticWebsite` `#FrontendProject` `#OpenSource` `#Portfolio`
